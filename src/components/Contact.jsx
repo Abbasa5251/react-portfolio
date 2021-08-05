@@ -61,7 +61,7 @@ function Contact() {
 						<div className="card-body">
 							<h5 className="card-title">Visit Me</h5>
 							<p className="card-text">
-								Avaduth Nagar, Baraamti-413102.
+								Avaduth Nagar, Baramati-413102.
 							</p>
 							<div className="card-footer">
 								<a
