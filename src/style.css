@@ -1,299 +1,299 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
 * {
-  font-family: "Poppins", sans-serif;
+	font-family: "Poppins", sans-serif;
 }
 
 *::-webkit-scrollbar {
-  display: none;
+	display: none;
 }
 
 .tag-pure {
-  color: #ffffff;
+	color: #ffffff;
 }
 
 .tag-primary {
-  color: #3dcfd3;
+	color: #3dcfd3;
 }
 
 #logo {
-  font-size: 24px;
-  color: #3dcfd3;
-  font-weight: 600;
+	font-size: 24px;
+	color: #3dcfd3;
+	font-weight: 600;
 }
 
 #header .navbar {
-  background-color: #161616;
+	background-color: #161616;
 }
 
 .nav-link {
-  color: #f2f2f2;
-  text-decoration: none;
+	color: #f2f2f2;
+	text-decoration: none;
 }
 
 .nav-link:hover {
-  color: #3dcfd3;
+	color: #3dcfd3;
 }
 
 .navbar-toggler {
-  color: #3dcfd3;
-  outline: none;
+	color: #3dcfd3;
+	outline: none;
 }
 
 .navbar-toggler:hover {
-  outline: none;
+	outline: none;
 }
 
 .navbar-toggler:focus {
-  outline: none;
+	outline: none;
 }
 
 .active {
-  color: #3dcfd3;
+	color: #3dcfd3;
 }
 
 section {
-  min-height: 100vh;
-  padding-top: 55px;
+	min-height: 100vh;
+	padding-top: 55px;
 }
 
 #home {
-  background-color: #161616;
+	background-color: #161616;
 }
 
 #home .container .left {
-  color: #ffffff;
+	color: #ffffff;
 }
 
 #home .container .left img {
-  margin-top: -20px;
-  padding-right: 30px;
+	margin-top: -20px;
+	padding-right: 30px;
 }
 
 #home .container .right .myName {
-  color: #3dcfd3;
-  font-size: 18px;
-  font-weight: 400;
+	color: #3dcfd3;
+	font-size: 18px;
+	font-weight: 400;
 }
 
 #home .container .right .title {
-  color: #ffffff;
-  font-weight: 600;
+	color: #ffffff;
+	font-weight: 600;
 }
 
 #home .container .right .myDescription {
-  font-size: 20px;
-  font-weight: 300;
-  color: #898989;
-  opacity: 75%;
+	font-size: 20px;
+	font-weight: 300;
+	color: #898989;
+	opacity: 75%;
 }
 
 #home .container .right button {
-  background: transparent;
-  border: #3dcfd3 solid 1px;
-  color: #ffffff;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  font-weight: 600;
-  -webkit-transition: all 500ms;
-  transition: all 500ms;
+	background: transparent;
+	border: #3dcfd3 solid 1px;
+	color: #ffffff;
+	outline: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	font-weight: 600;
+	-webkit-transition: all 500ms;
+	transition: all 500ms;
 }
 
 #home .container .right button:hover {
-  background-color: #3dcfd3;
-  color: #161616;
-  border: #ffffff solid 1px;
+	background-color: #3dcfd3;
+	color: #161616;
+	border: #ffffff solid 1px;
 }
 
 #about {
-  background-color: #f2f2f2;
+	background-color: #f2f2f2;
 }
 
 #about .container .row .left h1 {
-  font-weight: 600;
-  color: #3dcfd3;
+	font-weight: 600;
+	color: #3dcfd3;
 }
 
 #about .container .row .left h4 {
-  font-weight: 400;
-  color: #161616;
+	font-weight: 400;
+	color: #161616;
 }
 
 #about .container .row .left p {
-  color: #898989;
-  font-weight: 300;
-  font-size: 20px;
-  opacity: 90%;
+	color: #898989;
+	font-weight: 300;
+	font-size: 20px;
+	opacity: 90%;
 }
 
 #about .container .row .left .icons a img {
-  opacity: 40%;
+	opacity: 40%;
 }
 
 #about .container .row .left .icons a img:hover {
-  opacity: 90%;
+	opacity: 90%;
 }
 
 #about .container .row .right img {
-  max-width: 300px;
-  max-height: 350px;
-  background-color: #ffffff;
+	max-width: 300px;
+	max-height: 350px;
+	background-color: #ffffff;
 }
 
 #skills {
-  background-color: #161616;
+	background-color: #161616;
 }
 
 #skills h1 {
-  font-weight: 800;
+	font-weight: 800;
 }
 
 #skills .skill label {
-  font-size: 16px;
-  color: #f2f2f2;
+	font-size: 16px;
+	color: #f2f2f2;
 }
 
 #skills .skill .progress {
-  height: 6px;
-  background-color: #ffffff;
+	height: 6px;
+	background-color: #ffffff;
 }
 
 #skills .html {
-  background-color: #e44d26;
-  width: 93%;
+	background-color: #e44d26;
+	width: 93%;
 }
 
 #skills .css {
-  background-color: #2862ea;
-  width: 85%;
+	background-color: #2862ea;
+	width: 85%;
 }
 
 #skills .js {
-  background-color: #f7df1e;
-  width: 75%;
+	background-color: #f7df1e;
+	width: 75%;
 }
 
 #skills .bootstrap {
-  background-color: #563d7c;
-  width: 82%;
+	background-color: #563d7c;
+	width: 82%;
 }
 
 #skills .php {
-  background-color: #8892bf;
-  width: 73%;
+	background-color: #8892bf;
+	width: 73%;
 }
 
 #skills .plsql {
-  background-color: #316192;
-  width: 88%;
+	background-color: #316192;
+	width: 88%;
 }
 
 #skills .python {
-  background-color: #ffdd6d;
-  width: 90%;
+	background-color: #ffdd6d;
+	width: 90%;
 }
 
 #skills .java {
-  background-color: #f1941c;
-  width: 70%;
+	background-color: #f1941c;
+	width: 70%;
 }
 
 #services {
-  background-color: #f2f2f2;
+	background-color: #f2f2f2;
 }
 
 #services h1 {
-  font-weight: 800;
-  color: #3dcfd3;
+	font-weight: 800;
+	color: #3dcfd3;
 }
 
 #services .card {
-  border-radius: 15px;
+	border-radius: 15px;
 }
 
 #services .card img {
-  height: 80px;
-  width: 80px;
-  -webkit-transition: -webkit-transform ease-in 200ms;
-  transition: -webkit-transform ease-in 200ms;
-  transition: transform ease-in 200ms;
-  transition: transform ease-in 200ms, -webkit-transform ease-in 200ms;
+	height: 80px;
+	width: 80px;
+	-webkit-transition: -webkit-transform ease-in 200ms;
+	transition: -webkit-transform ease-in 200ms;
+	transition: transform ease-in 200ms;
+	transition: transform ease-in 200ms, -webkit-transform ease-in 200ms;
 }
 
 #services .card h5 {
-  color: #161616;
-  font-weight: 600;
+	color: #161616;
+	font-weight: 600;
 }
 
 #services .card p {
-  color: #898989;
-  font-size: 15px;
+	color: #898989;
+	font-size: 15px;
 }
 
 #services .card:hover img {
-  -webkit-transform: scale(1.15);
-  transform: scale(1.15);
+	-webkit-transform: scale(1.15);
+	transform: scale(1.15);
 }
 
 #contact {
-  background-color: #ffffff;
+	background-color: #ffffff;
 }
 
 #contact h1 {
-  font-weight: 800;
+	font-weight: 800;
 }
 
 #contact .card h5 {
-  color: #161616;
-  font-weight: 500;
+	color: #161616;
+	font-weight: 500;
 }
 
 #contact .card p {
-  color: #898989;
-  font-size: 15px;
+	color: #898989;
+	font-size: 15px;
 }
 
 #contact .card .card-footer {
-  background-color: #ffffff;
+	background-color: #ffffff;
 }
 
 #contact .form-control {
-  color: #161616;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  border: 1px solid #3dcfd3;
-  -webkit-transition: border ease-in-out 200ms;
-  transition: border ease-in-out 200ms;
+	color: #161616;
+	outline: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border: 1px solid #3dcfd3;
+	-webkit-transition: border ease-in-out 200ms;
+	transition: border ease-in-out 200ms;
 }
 
 #contact .form-control:focus {
-  border: 1.5px solid #3dcfd3;
+	border: 1.5px solid #3dcfd3;
 }
 
 #contact .button {
-  background: #3dcfd3;
-  color: #161616;
-  outline: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  font-weight: 600;
+	background: #3dcfd3;
+	color: #161616;
+	outline: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	font-weight: 600;
 }
 
 #footer {
-  background-color: #161616;
-  min-height: 200px;
+	background-color: #161616;
+	min-height: 200px;
 }
 
 #footer .container {
-  padding-top: 25px;
+	padding-top: 25px;
 }
 
 #footer .container h1 {
-  font-weight: 800;
+	font-weight: 800;
 }
 
 #footer .container p {
-  font-size: 14px;
+	font-size: 14px;
 }
 /*# sourceMappingURL=style.css.map */
