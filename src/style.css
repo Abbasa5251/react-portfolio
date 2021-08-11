@@ -84,7 +84,7 @@ section {
 	font-size: 20px;
 	font-weight: 300;
 	color: #898989;
-	opacity: 75%;
+	opacity: 75% !important;
 }
 
 #home .container .right button {
@@ -123,7 +123,7 @@ section {
 	color: #898989;
 	font-weight: 300;
 	font-size: 20px;
-	opacity: 90%;
+	opacity: 90% !important;
 }
 
 #about .container .row .left .icons a img {
