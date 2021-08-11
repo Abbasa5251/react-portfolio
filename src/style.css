@@ -84,7 +84,7 @@ section {
 	font-size: 20px;
 	font-weight: 300;
 	color: #898989;
-	opacity: 75% !important;
+	opacity: 0.75;
 }
 
 #home .container .right button {
@@ -123,15 +123,15 @@ section {
 	color: #898989;
 	font-weight: 300;
 	font-size: 20px;
-	opacity: 90% !important;
+	opacity: 0.9;
 }
 
 #about .container .row .left .icons a img {
-	opacity: 40%;
+	opacity: 0.4;
 }
 
 #about .container .row .left .icons a img:hover {
-	opacity: 90%;
+	opacity: 0.9;
 }
 
 #about .container .row .right img {
